@@ -1,0 +1,9 @@
+# tanpa tanda , atau ;
+
+# APPLICATION SECTION
+PORT = 3000
+
+# DATABASE SECTION
+
+
+# SERVICE SECTION
